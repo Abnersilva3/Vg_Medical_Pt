@@ -2,7 +2,7 @@
 
 ¿Qué es esto?
 
-Este es un sistema que desarrollé para automatizar la extracción de información de documentos médicos quirúrgicos. La idea surgió de la necesidad de procesar reportes médicos de manera eficiente y detectar automáticamente discrepancias entre diferentes tipos de documentos relacionados con el mismo procedimiento.
+Este es un sistema que desarrollé para automatizar la extracción de información de documentos médicos quirúrgicos. 
 
 ¿Por qué OCR?
 
