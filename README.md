@@ -14,9 +14,7 @@ Elegí **OCR.space** como proveedor porque:
 - Ofrece un plan gratuito para empezar
 - Es confiable para documentos médicos
 
-## ¿Por qué el archivo .env?
 
-El archivo `.env` almacena la clave de la API de OCR.space de forma segura. Es una práctica común en desarrollo no hardcodear claves API directamente en el código por seguridad. Así, cada persona puede usar su propia clave sin modificar el código fuente.
 
 ## ¿Cómo ejecutar el programa?
 
