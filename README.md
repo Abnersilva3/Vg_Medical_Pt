@@ -1,7 +1,7 @@
 # Smart OCR - Extractor Médico
 
 
-
+ 
 ¿Qué es esto?
 
 
