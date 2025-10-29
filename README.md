@@ -3,7 +3,6 @@
 
  
 ¿Qué es esto?
-er
 
 
 
