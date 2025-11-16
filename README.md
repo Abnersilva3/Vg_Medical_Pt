@@ -8,6 +8,8 @@
 .
 
 
+.
+
 
 Este es un sistema que desarrollé para automatizar la extracción de información de documentos médicos quirúrgicos. 
 
